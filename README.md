@@ -1,2 +1,2 @@
-# DataWrangling_Numpy_Pandas
+# DataWrangling_Numpy_Pandas_MatplotLib
 Tutorials
